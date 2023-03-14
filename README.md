@@ -1,4 +1,4 @@
-# Ecommerse-Api
+# Ecommerce-Api
 * This project store the data of user ecommerse website system 
 ## Framwork and Language use in this Project
 * Springboot 
